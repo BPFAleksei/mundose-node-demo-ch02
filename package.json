@@ -1,13 +1,13 @@
 {
-    "name": "node-app-mundose-practice-devops",
-    "version": "1.0.0",
-    "description": "Sample used for container templates",
-    "author": "Aleksei Escobar",
-    "main": "app.js",
-    "scripts": {
-      "start": "node app.js"
-    },
-    "dependencies": {
-      "express": "^4.16.4"
-    }
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Sample used for ci/cd workflows",
+  "author": "Aleksei Escobar",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
+}
